@@ -1,0 +1,2 @@
+bin_PROGRAMS=FinalFantasyFootball
+FinalFantasyFootball_SOURCES=main.c
