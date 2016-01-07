@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include <SDL.h>
+#include <stdint.h>
+#include "SDL.h"
+
 #include "stopif.h"
 
 #define TITLE "FinalFantasyFootball"
